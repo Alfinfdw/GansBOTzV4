@@ -13,11 +13,11 @@ global.linkig = 'https://instagram.com/al_pakel' //link ig lu
 global.linkgh = '-' //link github lu
 global.titlebot = `⫹⫺ WhatsApp Bot | Multidevice`
 global.wm2 = '🗿' //ganti aja kalau mau
-global.wm = 'MGBOTZ'
+global.wm = 'gatau'
 global.colong1 = 'Ciss 📸'
 global.colong2 = '𝑮𝒂𝒏𝒔𝑩𝑶𝑻𝒛シ︎'
 global.kontak2 = [
-['6282171432358', '𓂺', '🗿', 'Sᴀᴠᴇ Aᴊᴀ Yᴇ Oᴡɴᴇʀ Kᴜ Bᴀɪᴋ Kᴏᴋ', true],
+['4915256954581', '𓂺', '🗿', 'Sᴀᴠᴇ Aᴊᴀ Yᴇ Oᴡɴᴇʀ Kᴜ Bᴀɪᴋ Kᴏᴋ', true],
 ]
 
 //Biodata OWNER Bre
