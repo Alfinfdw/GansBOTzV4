@@ -4,10 +4,10 @@ let fs = require('fs')
 global.owner = JSON.parse(fs.readFileSync('./src/owner.json')) // Ganti di Handler.js
 global.mods = JSON.parse(fs.readFileSync('./src/moderator.json')) // Want some help?
 
-global.namabot = 'MGBOTZ-MD' //nama BOT Lu
+global.namabot = 'Gatau-MD' //nama BOT Lu
 global.packname = ''
-global.author = 'ALEX' //nama Owner
-global.ownernya = '6282171432358'
+global.author = 'Gatau' //nama Owner
+global.ownernya = '6285852939370'
 global.linkyt = 'https://youtube.com/channel/UCbI74T0AXUI26VC88NyoWdw' //link yt lu
 global.linkig = 'https://instagram.com/al_pakel' //link ig lu
 global.linkgh = '-' //link github lu
@@ -21,13 +21,13 @@ global.kontak2 = [
 ]
 
 //Biodata OWNER Bre
-global.RL = 'HAMBAH ALLAH' //jenis kelamin lu
-global.gender = 'Boys' //jenis kelamin lu
-global.agama = 'islam' //agama lu
-global.age = '17' //usia lu sekarang
-global.kelas = 'Masih Sekolah' //kelas lu
-global.hobi = 'Gaming/editing/ngoding' //hobi lu bre
-global.tempat = 'INDONESIA , Jawa Tengah' //tempat tinggal lu
+global.RL = 'gatau' //jenis kelamin lu
+global.gender = 'gatau' //jenis kelamin lu
+global.agama = 'gatau' //agama lu
+global.age = 'gatau' //usia lu sekarang
+global.kelas = 'gatau' //kelas lu
+global.hobi = 'gatau/gatau/gatau' //hobi lu bre
+global.tempat = 'gatau , gatau' //tempat tinggal lu
 
 global.APIs = { // API Prefix
   // name: 'https://website'
